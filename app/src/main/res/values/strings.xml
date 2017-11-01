@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Libros Nacho</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="name">Name of the book</string>
+    <string name="email">Authors name</string>
+    <string name="el_que_presta">lender</string>
+    <string name="create">Create</string>
+    <string name="phone">Phone Lender</string>
+    <string name="update">Update</string>
+    <string name="find">Find</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+    <string name="id">ID Book</string>
+    <string name="list">List</string>
+    <string name="title_activity_list">ListActivity</string>
+
+</resources>
